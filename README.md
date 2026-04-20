@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Owen
-- 👀 I’m interested in developing transformative AI technologies that enhance safety, wellness, and impact.
+- 👀 I’m interested in developing transformative AI technologies that enhance safety, governance, and impact.
 - 💞️ I’m looking to collaborate on projects where AI can drive meaningful change, improve system robustness, or support personal and professional growth.
 - 📫 How to reach me: Connect with me on LinkedIn or drop me a message here on GitHub to discuss potential projects and collaborations.
 - 😄 Pronouns: He/Him
